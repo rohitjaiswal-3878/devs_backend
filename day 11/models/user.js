@@ -1,17 +1,17 @@
-const { Datatype } =require("sequelize");
+const { Datatypes, DataTypes } =require("sequelize");
 const sc = require("../databases");
 
 const User = sc.define('User',{
     fullName:{
-        type: Datatypes.STRING,
+        type: DataTypes.STRING,
         allowNull : false
     },
     email:{
-        type: Datatypes.STRING,
+        type: DataTypes.STRING,
         allowNull : false
     },
     password:{
-        type: Datatypes.STRING,
+        type: DataTypes.STRING,
         allowNull : false
     }
 })
