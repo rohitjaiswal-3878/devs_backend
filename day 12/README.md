@@ -2,7 +2,7 @@
 * Requirments
 ~~~
 * Redis Client and Redis Store is needed.
-* Express-session , redis and connect-redis package should installed.
+* Express-session , redis and connect-redis package should be installed.
 ~~~
 
 
