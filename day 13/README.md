@@ -43,7 +43,18 @@ needs to be done.It's not a single or specific method,
 and it is the collection of various methodologies and best
 practices that follow the value statement signed with the customer.
 ~~~
-![This is called sprint.](agile.png)
+![This is called sprint.](agile.png "This is called sprint.")
+* Key terms of Agile.
+  
+![](values.jpg)
+
+* Principles of Agile.
+  
+![](principles.jpg )
+
+* Advantages of Agile.
+
+![](adv1.png)
 
 
 
