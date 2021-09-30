@@ -43,7 +43,7 @@ needs to be done.It's not a single or specific method,
 and it is the collection of various methodologies and best
 practices that follow the value statement signed with the customer.
 ~~~
-![This whole process is called Sprint](/agile.png "Text to show on mouseover")
+![This is called sprint.](agile.png)
 
 
 
