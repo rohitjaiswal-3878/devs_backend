@@ -38,7 +38,10 @@ There are various methodology available but the famous one is Agile methodology.
 
 * What is Agile?
 ~~~
-Agile is an iterative approach to project management and software development that helps teams deliver value to their customers faster and with fewer headaches. ... Requirements, plans, and results are evaluated continuously so teams have a natural mechanism for responding to change quickly.
+Agile is a framework that defines how software development 
+needs to be done.It's not a single or specific method,
+and it is the collection of various methodologies and best
+practices that follow the value statement signed with the customer.
 ~~~
 ![This whole process is called Sprint](/agile.png "Text to show on mouseover")
 
