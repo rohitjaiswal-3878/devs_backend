@@ -30,6 +30,19 @@ In pagination, we used to skip and limit for reducing the size of data in the da
 ~~~
 
 ### So the above discussed part is planning of project.
+```
+The above discussed topic is implemented and handled by Agile methodology.
+
+There are various methodology available but the famous one is Agile methodology.
+```
+
+* What is Agile?
+~~~
+Agile is an iterative approach to project management and software development that helps teams deliver value to their customers faster and with fewer headaches. ... Requirements, plans, and results are evaluated continuously so teams have a natural mechanism for responding to change quickly.
+~~~
+![This whole process is called Sprint](/agile.png "Text to show on mouseover")
+
+
 
 
 
