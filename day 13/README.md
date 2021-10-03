@@ -56,6 +56,14 @@ practices that follow the value statement signed with the customer.
 
 ![](adv1.png)
 
+* How to implement Agile?
+  
+![](implementation.png)
+
+* Scrum
+
+![](scrum.png)
+
 
 
 
